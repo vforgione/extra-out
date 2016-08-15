@@ -1,0 +1,9 @@
+*.py[cod]
+*.swp
+__pycache__/
+
+*.egg-info/
+dist/
+sdist/
+
+.idea/
